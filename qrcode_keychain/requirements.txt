@@ -1,0 +1,9 @@
+# for runtime
+numpy
+openpyscad
+qrcode
+pillow
+
+# for development
+autopep8
+pylint
